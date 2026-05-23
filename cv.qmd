@@ -1,0 +1,22 @@
+---
+title: "CV"
+---
+
+## Education
+
+**University of Toronto**  
+Master of Financial Insurance 2025-2026
+
+**University of Toronto**  
+Honours Bachelor of Science  
+Mathematical Applications in Economics and Finance Specialist, Minor in Statistics
+
+## Interests
+
+Quantitative finance, risk modelling, machine learning, statistical theories, and asset-liability management.
+
+## Links
+
+- Resume PDF: Coming soon
+- GitHub: https://github.com/SOMNIVM
+- LinkedIn: https://linkedin.com/in/dinghui-chen

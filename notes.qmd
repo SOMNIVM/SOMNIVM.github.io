@@ -1,0 +1,9 @@
+---
+title: "Notes"
+---
+
+This section will contain technical notes on math, quantitative finance, statistics, machine learning, and research papers.
+
+Planned topics:
+
+- None

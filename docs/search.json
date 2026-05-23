@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Dinghui Chen’s Personal Website",
+    "section": "",
+    "text": "Dinghui Chen\nI am a Master of Financial Insurance student at the University of Toronto. I enjoy researching real-world problems, quantifying uncertainty, and continuously learning from what I don’t know.\nThis website collects my projects, technical notes, and research-oriented work."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "University of Toronto\nMaster of Financial Insurance 2025-2026\nUniversity of Toronto\nHonours Bachelor of Science\nMathematical Applications in Economics and Finance Specialist, Minor in Statistics"
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "CV",
+    "section": "",
+    "text": "University of Toronto\nMaster of Financial Insurance 2025-2026\nUniversity of Toronto\nHonours Bachelor of Science\nMathematical Applications in Economics and Finance Specialist, Minor in Statistics"
+  },
+  {
+    "objectID": "cv.html#interests",
+    "href": "cv.html#interests",
+    "title": "CV",
+    "section": "Interests",
+    "text": "Interests\nQuantitative finance, risk modelling, machine learning, statistical theories, and asset-liability management."
+  },
+  {
+    "objectID": "cv.html#links",
+    "href": "cv.html#links",
+    "title": "CV",
+    "section": "Links",
+    "text": "Links\n\nResume PDF: Coming soon\nGitHub: https://github.com/SOMNIVM\nLinkedIn: https://linkedin.com/in/dinghui-chen"
+  },
+  {
+    "objectID": "notes.html",
+    "href": "notes.html",
+    "title": "Notes",
+    "section": "",
+    "text": "This section will contain technical notes on math, quantitative finance, statistics, machine learning, and research papers.\nPlanned topics:\n\nNone"
+  }
+]

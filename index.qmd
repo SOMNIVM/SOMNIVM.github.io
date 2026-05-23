@@ -1,0 +1,10 @@
+---
+title: "Dinghui Chen's Personal Website"
+---
+
+# Dinghui Chen
+
+I am a Master of Financial Insurance student at the University of Toronto. I enjoy researching real-world problems, quantifying uncertainty, and continuously learning from what I don’t know.
+
+
+This website collects my projects, technical notes, and research-oriented work.
